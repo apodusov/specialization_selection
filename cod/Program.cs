@@ -18,6 +18,3 @@ foreach (var item in startingArray)
 }
 
 Console.WriteLine($"[{String.Join("; ", resultArray)}]");
-
-
-//string[] stringArray = {"hello", "2", "world", "!", "-65", "Kazan", "and", "computer science", ":)"};
